@@ -8,7 +8,6 @@ Implementación en Java del autómata celular de John Conway, con una versión g
   <img src="docs/demo.gif" alt="Demostración de la interfaz gráfica del Juego de la Vida" width="480">
 </p>
 
-[▶ Ver el video en mejor calidad](docs/demo.mp4)
 
 ## Requisitos
 
