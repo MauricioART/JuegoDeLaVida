@@ -4,11 +4,11 @@ Implementación en Java del autómata celular de John Conway, con una versión g
 
 ## Demostración
 
+<p align="center">
+  <img src="docs/demo.gif" alt="Demostración de la interfaz gráfica del Juego de la Vida" width="480">
+</p>
 
-
-https://github.com/user-attachments/assets/653f1bff-cccb-4da8-8737-5487f90930e0
-
-
+[▶ Ver el video en mejor calidad](docs/demo.mp4)
 
 ## Requisitos
 
@@ -46,6 +46,7 @@ java -jar target/juego-de-la-vida-1.0-SNAPSHOT.jar
 - **Iniciar** / **Pausar**: corre la simulación automáticamente.
 - **Paso**: avanza una sola generación.
 - **Limpiar**: reinicia el tablero.
+- **Generaciones/s**: ajusta la velocidad de la simulación.
 - Elige el tamaño del tablero (12, 24, 36 o 48) y la regla de vecindad:
   - *Conway (8 vecinos)*: incluye las diagonales.
   - *Original (4 vecinos)*: solo arriba, abajo, izquierda y derecha.
