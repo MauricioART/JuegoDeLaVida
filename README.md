@@ -4,7 +4,11 @@ Implementación en Java del autómata celular de John Conway, con una versión g
 
 ## Demostración
 
-[▶ Ver el video de la interfaz gráfica](docs/demo.mp4)
+
+
+https://github.com/user-attachments/assets/653f1bff-cccb-4da8-8737-5487f90930e0
+
+
 
 ## Requisitos
 
